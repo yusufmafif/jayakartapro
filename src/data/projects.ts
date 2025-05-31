@@ -13,24 +13,32 @@ export const projects: Project[] = [
     title: "Jadwal Sholat PDF",
     category: "Development",
     imageUrl: "https://jadwal-sholat-pdf.netlify.app/Mosque.jpg?auto=compress&cs=tinysrgb&w=1260&h=750",
-    description: "A clean and minimal e-commerce website design focused on user experience and conversion optimization.",
+    description: "Jadwal Sholat is a project that provide a simple way to get the praying time and template to print out.",
     tags: ["React", "Tailwind CSS", "E-commerce"]
   },
   {
     id: 3,
-    title: "Modern Brand Identity",
+    title: "JEC Jersey Design",
     category: "Design",
     imageUrl: "Jersey JEC.jpg?auto=compress&cs=tinysrgb&w=1260&h=750",
     description: "Complete visual identity design for a modern tech company, including logo, style guide, and marketing materials.",
     tags: ["Design", "Identity", "Design System"]
   },
   {
+    id: 5,
+    title: "JEC Logo",
+    category: "Design",
+    imageUrl: "JEC_logo.jpg?auto=compress&cs=tinysrgb&w=1260&h=750",
+    description: "Jannissary Equine Center Logo",
+    tags: ["Design", "Identity", "Logo"]
+  },
+  {
     id: 4,
-    title: "Travel Blog Platform",
+    title: "Ikhwan Butcher Shop",
     category: "Development",
-    imageUrl: "https://images.pexels.com/photos/3278215/pexels-photo-3278215.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750",
-    description: "A responsive blog platform for travel enthusiasts with content management system and social sharing features.",
-    tags: ["Development", "CMS", "Responsive"]
+    imageUrl: "Butcher.jpg?auto=compress&cs=tinysrgb&w=1260&h=750",
+    description: "A simple website for a butcher shop with a checkout system through WhatsApp.",
+    tags: ["React", "Tailwind CSS", "E-commerce"]
   },
 ];
 
